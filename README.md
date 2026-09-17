@@ -24,4 +24,4 @@ Acredito que o verdadeiro valor de um profissional ServiceNow não está apenas 
 * **Governança Estrita:** Separação clara entre *Instance Configuration* e *User Personalization*, garantindo upgrades seguros.
 
 ---
-📫 **Conecte-se comigo:** [Insira o link do seu LinkedIn aqui] | Vamos debater sobre arquitetura e desenvolvimento no ecossistema ServiceNow!
+📫 **Conecte-se comigo:** [https://www.linkedin.com/in/leonardorafaelx/] | Vamos debater sobre arquitetura e desenvolvimento no ecossistema ServiceNow!
