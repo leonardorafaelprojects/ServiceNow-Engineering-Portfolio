@@ -3,7 +3,7 @@
 ## 🎯 Objetivo Técnico
 Demonstrar domínio sobre a arquitetura de **Record Producers** no ServiceNow, empregando o mapeamento direto de variáveis (Map to Field) e scripts de servidor (`current` vs `producer`) para aplicar regras de negócios no momento da submissão de chamados.
 
-## 🏢 O Desafio de Negócio (Nebula Cloud Dynamics)
+## 🏢 O Desafio de Negócio
 A área de suporte da Nebula relatou que os usuários estavam com dificuldade de usar a interface nativa do ServiceNow para abrir incidentes. Foi solicitado um formulário simplificado no *Service Portal*. 
 **Requisitos Críticos:** O formulário precisava criar um registro direto na tabela de Incidentes (não uma RITM), classificar automaticamente chamados urgentes e rotear incidentes da categoria "Database" diretamente para o grupo solucionador, sem intervenção humana.
 
@@ -45,3 +45,13 @@ if (producer.incidente_urgente == 'true') {
 if (producer.categoria == 'database') {
     current.assignment_group.setDisplayValue('Database');
 }
+
+## 📸 Evidências do Laboratório Prático
+
+> Os testes abaixo comprovam a submissão via portal e a perfeita tradução das regras de negócio pelo script do servidor diretamente na tabela de Incidentes.
+
+**Formulário Dinâmico no Portal:**
+![Record Producer Form](../images/lab3_record_producer_form.png)
+
+**Resultado (Incidente Criado com Atribuição Automática):**
+![Incidente Resultante](../images/lab3_record_producer_result.png)
