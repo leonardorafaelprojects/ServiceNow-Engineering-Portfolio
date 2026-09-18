@@ -13,16 +13,16 @@ Este espaço serve como um *playbook* arquitetural. O foco não é apenas mostra
 Focado na entrega de serviços ao usuário final através do *Service Portal*, garantindo governança arquitetural com a regra DRY (Don't Repeat Yourself) e interfaces reativas de alto desempenho.
 
 * 📄 **[Lab 01: Formulário de Solicitação de Acesso RH](./lab-01-form-acesso-rh/)**
-  * *Técnicas aplicadas:* Geração da hierarquia padrão do Catálogo (REQ > RITM > SCTASK)[cite: 1].
-  * *Componentização:* Criação e injeção do componente *Variable Set* para gerenciar pacotes de variáveis compartilhadas e repetitivas (como Solicitante, RG, Telefone)[cite: 3].
+  * *Técnicas aplicadas:* Geração da hierarquia padrão do Catálogo (REQ > RITM > SCTASK).
+  * *Componentização:* Criação e injeção do componente *Variable Set* para gerenciar pacotes de variáveis compartilhadas e repetitivas (como Solicitante, RG, Telefone).
 
 * 📄 **[Lab 02: Formulário de Criação de Aplicação (App Dev)](./lab-02-form-criacao-aplicacao/)**
-  * *UX/UI Dinâmica:* Desenvolvimento de um motor condicional para alterar dinamicamente o comportamento das informações no formulário[cite: 1].
-  * *Performance:* Escolha arquitetural pelo uso de *Catalog UI Policies*, que rodam estritamente no *Client-Side* (navegador), garantindo carregamento rápido e evitando a necessidade de *Client Scripts* complexos[cite: 1, 4].
- 
-* 📄 **[Lab 03: Record Producer e Lógica Server-Side (Incidentes)](./lab-03-record-producer-incidente/)**
-  * *Técnicas aplicadas:* Mapeamento de variáveis diretas para a tabela de Incidentes (*Map to Field*).
-  * *Automação Back-end:* Criação de script de servidor manipulando objetos `producer` e `current` para roteamento e classificação automática de chamados sem intervenção humana.
+  * *UX/UI Dinâmica:* Desenvolvimento de um motor condicional para alterar dinamicamente o comportamento das informações no formulário.
+  * *Performance:* Escolha arquitetural pelo uso de *Catalog UI Policies*, que rodam estritamente no *Client-Side* (navegador), garantindo carregamento rápido e evitando a necessidade de *Client Scripts* complexos.
+
+* 📄 **[Lab 03: Record Producer e Lógica Server-Side (Incident Management)](./lab-03-record-producer-incidente/)**
+  * *Arquitetura de Dados:* Mapeamento declarativo (*Map to Field*) para criação direta de registros na tabela de Incidentes, preservando a governança ITIL.
+  * *Automação Back-end:* Desenvolvimento de script de servidor (Server-Side) manipulando os objetos `current` e `producer` para automatizar regras de priorização de chamados e roteamento de grupos solucionadores (*Assignment Group*) sem intervenção humana.
 
 ---
 
