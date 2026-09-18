@@ -19,6 +19,10 @@ Focado na entrega de serviços ao usuário final através do *Service Portal*, g
 * 📄 **[Lab 02: Formulário de Criação de Aplicação (App Dev)](./lab-02-form-criacao-aplicacao/)**
   * *UX/UI Dinâmica:* Desenvolvimento de um motor condicional para alterar dinamicamente o comportamento das informações no formulário[cite: 1].
   * *Performance:* Escolha arquitetural pelo uso de *Catalog UI Policies*, que rodam estritamente no *Client-Side* (navegador), garantindo carregamento rápido e evitando a necessidade de *Client Scripts* complexos[cite: 1, 4].
+ 
+* 📄 **[Lab 03: Record Producer e Lógica Server-Side (Incidentes)](./lab-03-record-producer-incidente/)**
+  * *Técnicas aplicadas:* Mapeamento de variáveis diretas para a tabela de Incidentes (*Map to Field*).
+  * *Automação Back-end:* Criação de script de servidor manipulando objetos `producer` e `current` para roteamento e classificação automática de chamados sem intervenção humana.
 
 ---
 
