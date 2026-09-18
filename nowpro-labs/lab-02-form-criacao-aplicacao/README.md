@@ -3,7 +3,7 @@
 ## 🎯 Objetivo Técnico
 Implementar formulários inteligentes e reativos na plataforma ServiceNow. O objetivo é dominar as **Catalog UI Policies** no lado do cliente (*Client-Side*) para alterar a visibilidade de campos dinamicamente, garantindo uma interface limpa (Clean UI) baseada nas escolhas do usuário.
 
-## 🏢 O Cenário (Business Case na Nebula)
+## 🏢 O Cenário (Business Case)
 O time de *Core IT* da Nebula solicitou uma esteira no Catálogo de Serviços para iniciar aplicações. O problema: o formulário exigia informações diferentes dependendo se a arquitetura solicitada era "Global" ou "Scoped". A nossa missão como Arquitetos foi criar uma interface responsiva sem sacrificar o tempo de carregamento da página.
 
 ## 💡 Decisões Arquiteturais e Execução
