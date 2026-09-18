@@ -45,6 +45,7 @@ if (producer.incidente_urgente == 'true') {
 if (producer.categoria == 'database') {
     current.assignment_group.setDisplayValue('Database');
 }
+```
 
 ## 📸 Evidências do Laboratório Prático
 
