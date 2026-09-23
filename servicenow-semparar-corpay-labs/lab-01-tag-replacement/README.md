@@ -33,7 +33,7 @@ if (producer.motivo_troca == 'roubo') {
     current.urgency = 1; // High
     current.impact = 2;  // Medium
 }
-
+````
 📸 Evidências do Laboratório Prático
 Os testes na PDI comprovam o layout do portal respondendo às UI Policies e o back-end processando a categorização e urgência mapeadas via script.
 
