@@ -1,6 +1,6 @@
 # 🏷️ Sem Parar (Corpay) — Lab 01: Service Portal & Substituição de Tag de Frota
 
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-Washington%20%7C%20Xanadu-009688?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-Zurich-009688?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com)
 [![Approach](https://img.shields.io/badge/Approach-Low--Code%20%2F%20No--Code%20First-0052CC?style=for-the-badge&logo=target&logoColor=white)]()
 [![Release Governance](https://img.shields.io/badge/Release%20Governance-Update%20Set%20Managed-E65100?style=for-the-badge&logo=git&logoColor=white)]()
 [![Module](https://img.shields.io/badge/Module-ITSM%20%2F%20Service%20Catalog-455A64?style=for-the-badge)]()
