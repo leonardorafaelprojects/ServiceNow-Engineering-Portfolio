@@ -36,9 +36,12 @@ if (producer.motivo_troca == 'roubo') {
 ````
 📸 Evidências do Laboratório Prático
 Os testes na PDI comprovam o layout do portal respondendo às UI Policies e o back-end processando a categorização e urgência mapeadas via script.
+## 📸 Evidências do Laboratório Prático
 
-1. Formulário no Service Portal (Validação Declarativa Ativa):
-(Insira a imagem aqui, ex: ../images/lab1_semparar_form.png)
+> Formulário no Service Portal (Validação Declarativa Ativa):
 
-2. Incidente Resultante (Automação de Prioridade e Categorização):
-(Insira a imagem aqui, ex: ../images/lab1_semparar_incident.png)
+![Formulário no Service Portal (Validação Declarativa Ativa):](../images/lab1_semparar_form.png)
+
+> Incidente Resultante (Automação de Prioridade e Categorização):
+
+![Incidente Resultante (Automação de Prioridade e Categorização):](../images/lab1_semparar_incident.png)
