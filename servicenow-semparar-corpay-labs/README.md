@@ -1,6 +1,6 @@
 # 🚦 Sem Parar (Corpay) — ServiceNow Engineering & Automação Low-Code
 
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-Washington%20%2F%20Xanadu-green.svg)](https://www.servicenow.com)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-Zurich-green.svg)](https://www.servicenow.com)
 [![Role Target](https://img.shields.io/badge/Focus-Analista%20de%20Sistemas%20Low%20Code%20Jr-orange.svg)]()
 
 Bem-vindo ao meu centro de soluções desenvolvidas especificamente para o ecossistema operacional da **Sem Parar (Corpay)**. 
